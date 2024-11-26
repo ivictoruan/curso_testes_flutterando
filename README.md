@@ -1,16 +1,30 @@
-# curso_testes_flutterando
+# 📱 App de Testes com Flutter (Curso Jacob Moura)
 
-A new Flutter project.
+App simples desenvolvido durante o curso, focado em **testes** com **Cubit/Bloc** e **persistência de dados** com **Isar**.
 
-## Getting Started
+## 🛠️ Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- **Flutter** 
+- **Cubit/Bloc** 🔄
+- **Isar** 💾
 
-A few resources to get you started if this is your first Flutter project:
+## 📚 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Gerenciamento de estado com Cubit/Bloc 📊
+- Persistência de dados com Isar 💾
+- Interface amigável e intuitiva 🖼️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Como Executar
+
+1. Clone o repositório: 
+   ```bash
+   git clone https://github.com/ivictoruan/curso_testes_flutterando.git
+   ```
+2. Instale as dependências:
+   ```bash
+   flutter pub get
+   ```
+3. Execute o app:
+   ```bash
+   flutter run
+   ```
